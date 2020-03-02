@@ -1,6 +1,6 @@
 
 let fr = 5; //starting FPS
-var y = 100;
+var y = 200;
 function setup() {
   createCanvas(400, 400);
   background(32);
