@@ -4,7 +4,7 @@ var y = 100;
 function setup() {
   createCanvas(400, 400);
   background(32);
-  frameRate(fr);
+  frameRate(fr)
 
 }
 
